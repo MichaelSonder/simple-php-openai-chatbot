@@ -1,0 +1,20 @@
+# ignore vendor folder
+/vendor/
+
+# ignore composer.lock file
+composer.lock
+
+# ignore .env files
+.env*
+
+# ignore logs folder
+/logs/
+
+# ignore cache folder
+/cache/
+
+# ignore IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

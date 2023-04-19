@@ -1,0 +1,11 @@
+{
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "orhanerday/open-ai": "^4.7"
+    }
+}
